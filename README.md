@@ -35,14 +35,6 @@ Currently diving into machine learning, backend systems, and building things tha
 ![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### 📊 Machine Learning & Data Analysis
-Currently working on a data-analysis project where I'm:
-
-• Cleaning and exploring datasets with Pandas/NumPy
-
-• Building visualizations (Matplotlib/Seaborn)
-
-• Training and evaluating models with scikit-learn
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
